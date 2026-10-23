@@ -1,0 +1,15 @@
+Rapport d'analyse des insectes
+
+Objectif :
+Étudier quelques caractéristiques morphologiques des insectes.
+
+Données :
+Trois insectes ont été considérés : la fourmi, l'abeille et le papillon.
+
+Résultats :
+La fourmi mesure 5 mm, l'abeille 12 mm et le papillon 25 mm selon les données utilisées dans ce TP.
+
+Conclusion :
+Ce projet permet d'organiser les données et de documenter les étapes d'une analyse scientifique.
+Rédiger
+Écrire à Ñih Ãl

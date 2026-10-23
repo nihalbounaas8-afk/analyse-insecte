@@ -1,0 +1,21 @@
+TP : Workflow de recherche reproductible avec Git et GitHub
+
+1. Différence entre git add et git commit
+
+La commande git add prépare les fichiers à enregistrer. La commande git commit enregistre les modifications dans l'historique du projet.
+
+2. Pourquoi documenter chaque étape du projet ?
+
+Pour conserver une trace du travail réalisé, faciliter la compréhension du projet et permettre à d'autres chercheurs de reproduire les étapes.
+
+3. Comment Git favorise-t-il la reproductibilité scientifique ?
+
+Git conserve l'historique des modifications et permet de retrouver les versions précédentes du projet, ce qui facilite la vérification des analyses.
+
+4. Que se passe-t-il si deux chercheurs modifient le même fichier ?
+
+Un conflit peut apparaître lorsque les modifications sont incompatibles. Il faut alors examiner les changements et résoudre le conflit avant de les fusionner.
+Rédiger
+Écrire à Ñih Ãl
+
+
